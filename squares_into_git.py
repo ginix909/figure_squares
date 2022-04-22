@@ -29,5 +29,6 @@ def s_triangle(gheron=[],a_h=[],a_a_sin=[],a=[]):
     elif not a==[]:
         return 3**0.5/4*a[0]**2
 
+print('Проверка коммитов и пушей')
 
 # площадь окружности

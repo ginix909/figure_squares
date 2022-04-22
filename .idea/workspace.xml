@@ -16,7 +16,13 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22c87db1-e2c5-4073-8553-1bceabe0dc21" name="Default Changelist" comment="В репозиторий добавлен файл squares_into_git.py с функциями вычисления площадей фигур.">
@@ -117,21 +123,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="В репозиторий добавлен файл squares_into_git.py с функциями вычисления площадей фигур." />
-    <option name="LAST_COMMIT_MESSAGE" value="В репозиторий добавлен файл squares_into_git.py с функциями вычисления площадей фигур." />
+    <MESSAGE value="пробую commit and push. не могу выгрузить файл в репозиторий гит" />
+    <option name="LAST_COMMIT_MESSAGE" value="пробую commit and push. не могу выгрузить файл в репозиторий гит" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650634987803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1650634987803" />
+    <state x="511" y="79" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1650638415959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="511" y="79" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1650638415959" />
     <state x="392" y="47" key="#squares_into_git_(1)" timestamp="1650635027663">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="47" key="#squares_into_git_(1)/0.0.1366.728@0.0.1366.728" timestamp="1650635027663" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1650630456960">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1650637682637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1650630456960" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1650637682637" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1650635050580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -148,17 +159,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1650635050579" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1650636112351">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1650638714864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1650636112351" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1650638714864" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1650637129232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1650637129232" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650631294434">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1650631294434" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1650636006524">
+    <state x="397" y="152" key="git4idea.merge.GitPullDialog" timestamp="1650638764289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1650636006524" />
+    <state x="397" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1650638764289" />
+    <state x="477" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1650638668936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="477" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1650638668936" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1650638721296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1650638721296" />
   </component>
 </project>
